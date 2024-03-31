@@ -1,0 +1,19 @@
+{
+    "cards": [
+        {
+            "name": "Card A",
+            "text": "a-a-a",
+            "id": 0
+        },
+        {
+            "name": "Card B",
+            "text": "b-b-b",
+            "id": 1
+        },
+        {
+            "name": "Card C",
+            "text": "c-c-c",
+            "id": 2
+        }
+    ]
+}
